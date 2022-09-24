@@ -1,3 +1,11 @@
 # vscode sandox
 
-## raspi 400 
+## extensions 
+
+- MS c/c++ extension 
+
+
+
+## c folder 
+
+c programs
